@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Hobbies
 1. [Fishing](https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,q_65,w_768/v1/clients/norway/Fishing_2152634f-ba23-4044-8145-6ec3bab642bf.png)
 2. [Spurs Basketball](https://basketballhq.com/wp-content/uploads/2015/10/hi-res-159737409_crop_650x440.jpg)
-- The Spurs have been deemed "offensively challenged" by most sports commentators, but let me *LEARN* you something here.  Our MVP, Kawhi Leonard, has missed like 30 games this season with a quad injury.  
+- The Spurs have been deemed "offensively challenged" by most sports commentators, but let me **LEARN** you something here.  Our MVP, Kawhi Leonard, has missed like 30 games this season with a quad injury.  
 - Rudy Gay, who we recruited solely for his offensive presence, has missed the past like 15 games. 
 - We have had to rotate our bench players in constantly
 - Pop may or may not be obsessed with defense. 
