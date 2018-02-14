@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Group Project 2
 
 You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Group Project 2
+
+### 
 [This is a link to A&M's Website:](http://www.tamu.edu/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,7 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Hobbies
 1. [Fishing](https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,q_65,w_768/v1/clients/norway/Fishing_2152634f-ba23-4044-8145-6ec3bab642bf.png)
 2. [Spurs Basketball](https://basketballhq.com/wp-content/uploads/2015/10/hi-res-159737409_crop_650x440.jpg)
-3. 
+3. [Overwatch](https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/widowmaker-screenshot-004.jpg)
+4. 
 
 ### Jekyll Themes
 
