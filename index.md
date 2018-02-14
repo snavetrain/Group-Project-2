@@ -23,7 +23,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+[This is a link to A&M's Website:](http://www.tamu.edu/)
 [Link](url) and ![Image](src)
 ```
 
