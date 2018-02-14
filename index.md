@@ -38,7 +38,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Pop may or may not be obsessed with defense. 
 3. [Overwatch](https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/widowmaker-screenshot-004.jpg)
 - This [Article](http://knowyourmeme.com/photos/1325069-overwatch) poses extreme controversy in the Overwatch Community
-4. 
+4. Going to Northgate
+- My friends and I like to play games at The Backyard
+- The Dry Bean Saloon is a cool shot bar
+- You will find me singing karoake occasionally
+
 
 ### Jekyll Themes
 
