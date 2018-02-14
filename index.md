@@ -31,6 +31,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Hobbies
 1. [Fishing](https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,q_65,w_768/v1/clients/norway/Fishing_2152634f-ba23-4044-8145-6ec3bab642bf.png)
+- My favorite places to fish is [The Guadalupe River](https://tpwd.texas.gov/fishboat/fish/management/stocking/guadalupe.phtml) because it is only about 35 minutes from my parents' house, and its the southernmost body of water to have a sustainable Rainbow Trout ecosystem
+- The Canyon Lake Dam is so high that the water coming from the bottom is cold enough to provide the trout with oxygen. 
+- Rainbow trout are easily scared, so they are challenging to catch
+- Wading up and down the river is peaceful and I want my ashes scattered in the Guadalupe River when I die
 2. [Spurs Basketball](https://basketballhq.com/wp-content/uploads/2015/10/hi-res-159737409_crop_650x440.jpg)
 - The Spurs have been deemed "offensively challenged" by most sports commentators, but let me **LEARN** you something here.  Our MVP, Kawhi Leonard, has missed like 30 games this season with a quad injury.  
 - Rudy Gay, who we recruited solely for his offensive presence, has missed the past like 15 games. 
