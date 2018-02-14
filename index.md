@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Group Project 2
+[This is a link to A&M's Website:](http://www.tamu.edu/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -23,7 +23,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[This is a link to A&M's Website:](http://www.tamu.edu/)
+
 [Link](url) and ![Image](src)
 ```
 
