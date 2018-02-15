@@ -61,9 +61,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   reported that seven out of ten most consumed albums came from the genre. 
 - The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
 
-### Favorite Websites
-[This is a link to A&M's Website:](http://www.tamu.edu/)
-
+### Pet Pics
+Patrick's Cats:
+#### KitKat
+![Image of Kitkat](https://i.imgur.com/kdTDqpG.jpg)
+#### Sam (and Kitkat)
+![Image of Sam/Kitkat](https://i.imgur.com/ogKQagY.jpg)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snavetrain/Group-Project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
