@@ -63,6 +63,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Pet Pics
 Patrick's Cats:
+<center> <h4>Kitkat</h4> </center>
 ![Image of Kitkat](https://i.imgur.com/kdTDqpG.jpg)
 
 ### Jekyll Themes
