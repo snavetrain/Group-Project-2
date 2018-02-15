@@ -28,6 +28,7 @@
 - The _Manuel Ortiz Show_ is one of his most famous sketches, where he plays a Dominican talk show host
 - He was known for doing a really good impression of Prince, and even had a recurring sketch called _The Prince Show_
 - Fred Armisen was also good at making impressions of political figures like Barack Obama and Mahmoud Ahmadinejad
+- Fred also has a show called Portlandia, in which he plays multiple characters including a feminist bookstore keeper
 2. **Amy Poehler**
 ![](https://images-na.ssl-images-amazon.com/images/M/MV5BNDZlNmRhNjQtOTZjZC00YzkwLWFlMDMtNTNiMmVhN2UxMzliXkEyXkFqcGdeQXVyNzcwODE0OTk@._V1_UX214_CR0,0,214,317_AL_.jpg)
 - She is known for being an anchor on Weekend Update with Tina Fey and Seth Meyers.
