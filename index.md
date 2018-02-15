@@ -18,7 +18,7 @@
 4. Going to Northgate
 - My friends and I like to play games at The Backyard ![](http://www.driftingcreatives.com/wp-content/uploads/2014/10/backyard.jpg)
 - The Dry Bean Saloon is a cool shot bar 
--![](https://s3-media3.fl.yelpcdn.com/bphoto/F_Qd9s5Bzx1tmn7umlquvw/ls.jpg)
+- ![](https://s3-media3.fl.yelpcdn.com/bphoto/F_Qd9s5Bzx1tmn7umlquvw/ls.jpg)
 - You will find me singing karoake occasionally ![](http://surfairbeachhotel.com.au/wp-content/uploads/2017/10/karaoke1.jpg)
 
 
