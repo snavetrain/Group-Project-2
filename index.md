@@ -47,6 +47,20 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - The Dry Bean Saloon is a cool shot bar
 - You will find me singing karoake occasionally
 
+#### Music Choice
+1. [Migos](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg/220px-Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg)
+- My favorite song from Migos is **Bad and Boujee** because it's the most lit. 
+- The first mixtape they released is called Juug Season on August 25, 2011.
+- Now, they are one of Hip Hop's Hardest Rappers. 
+2. [Tekashi69](http://thenewmvmt.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-29-at-3.25.28-AM.png)
+- Although officially known as 6ix9ine, he is recognized in the rap game as Tekashi69. 
+- New upcoming rapper making serious waves. 
+- Different type of flow and energy makes his music so recognizable. 
+3. [Hip-Hop>Everything](http://www.businessinsider.com/hip-hop-passes-rock-most-popular-music-genre-nielsen-2018-1)
+- According to an article by Business Insider, for the first time in history, hip-hop has surpassed rock to become the most popular music genre. 
+- [Nielson's Music Report](http://www.nielsen.com/us/en/insights/reports/2018/2017-music-us-year-end-report.html?afflt=ntrt15340001&afflt_uid=6K_vzbtMnOI.un2J6yikqTDqdJaCVNqcABj4sLaluH_j&afflt_uid_2=AFFLT_ID_2)
+  reported that seven out of ten most consumed albums came from the genre. 
+- The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
 
 ### Jekyll Themes
 
