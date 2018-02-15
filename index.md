@@ -61,8 +61,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   reported that seven out of ten most consumed albums came from the genre. 
 - The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
 
-### Favorite Websites
-[This is a link to A&M's Website:](http://www.tamu.edu/)
+### Pet Pics
+Patrick's Cats:
+![Image of Kitkat]
+(https://i.imgur.com/kdTDqpG.jpg)
 
 ### Jekyll Themes
 
