@@ -49,7 +49,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Top 5 Saturday Night Live Cast Members (in no particular order)
 1. **Fred Armisen**
-![](http://media4.s-nbcnews.com/i/streams/2013/January/130108/1B5446488-130801-fred-armisen.jpg)
+![](http://www.christies.com/sales/90s-to-now-online-only-february-2014/images/features-index/armisen-index.jpg)
 - The _Manuel Ortiz Show_ is one of his most famous sketches, where he plays a Dominican talk show host
 - He was known for doing a really good impression of Prince, and even had a recurring sketch called _The Prince Show_
 - Fred Armisen was also good at making impressions of political figures like Barack Obama and Mahmoud Ahmadinejad
