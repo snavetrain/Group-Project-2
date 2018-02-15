@@ -49,7 +49,7 @@
 - He is the longest serving cast member
 - One of his most famous sketches was titled _What's Up With That?_, where he plays an interrupting talk show host who loves to sing his theme song at every chance he gets. 
 
-#### Music Choice
+### Music Choice
 1. [Migos](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg/220px-Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg)
 - My favorite song from Migos is **Bad and Boujee** because it's the most lit. 
 - The first mixtape they released is called Juug Season on August 25, 2011.
@@ -65,7 +65,7 @@
 - The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
 
 ### Pet Pics
-Patrick's Cats:
+**Patrick's Cats:**
 #### KitKat
 ![Image of Kitkat](https://i.imgur.com/kdTDqpG.jpg)
 #### Sam (and Kitkat)
