@@ -1,5 +1,5 @@
-## Group Project 2
-
+# Group Project 2
+## Created by: Belair Albahagwi, George Coronado, Jose Nerio, Luke Snavely, & Patrick Tam 
 You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
