@@ -47,6 +47,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - The Dry Bean Saloon is a cool shot bar
 - You will find me singing karoake occasionally
 
+### Top 5 Saturday Night Live Cast Members (in no particular order)
+1. **Fred Armisen**
+2. **Amy Poehler**
+3. **Andy Samberg**
+4. **Kristen Wiig**
+5. **Kenan Thompson**
 
 ### Jekyll Themes
 
