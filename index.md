@@ -16,9 +16,9 @@
 - This [Article](http://knowyourmeme.com/photos/1325069-overwatch) poses extreme controversy in the Overwatch Community
 - If you're feeling generous, you may buy George a [copy](https://www.walmart.com/ip/Overwatch-GOTY-Edition-Activision-PlayStation-4-047875881273/472837985?wmlspartner=wlpa&selectedSellerId=12697&adid=22222222227095214719&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=212745973635&wl4=pla-344488276201&wl5=9060009&wl6=&wl7=&wl8=&wl9=pla&wl10=117436918&wl11=online&wl12=472837985&wl13=&veh=sem) so he can be happy. 
 4. Going to Northgate
-- My friends and I like to play games at The Backyard [](http://www.driftingcreatives.com/wp-content/uploads/2014/10/backyard.jpg)
-- The Dry Bean Saloon is a cool shot bar [](https://s3-media3.fl.yelpcdn.com/bphoto/F_Qd9s5Bzx1tmn7umlquvw/ls.jpg)
-- You will find me singing karoake occasionally [](http://surfairbeachhotel.com.au/wp-content/uploads/2017/10/karaoke1.jpg)
+- My friends and I like to play games at The Backyard ![](http://www.driftingcreatives.com/wp-content/uploads/2014/10/backyard.jpg)
+- The Dry Bean Saloon is a cool shot bar ![](https://s3-media3.fl.yelpcdn.com/bphoto/F_Qd9s5Bzx1tmn7umlquvw/ls.jpg)
+- You will find me singing karoake occasionally ![](http://surfairbeachhotel.com.au/wp-content/uploads/2017/10/karaoke1.jpg)
 
 
 ### Top 5 Saturday Night Live Cast Members (in no particular order)
