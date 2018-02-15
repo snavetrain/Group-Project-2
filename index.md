@@ -46,6 +46,34 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - The Dry Bean Saloon is a cool shot bar
 - You will find me singing karoake occasionally
 
+
+### Top 5 Saturday Night Live Cast Members (in no particular order)
+1. **Fred Armisen**
+![](http://www.christies.com/sales/90s-to-now-online-only-february-2014/images/features-index/armisen-index.jpg)
+- The _Manuel Ortiz Show_ is one of his most famous sketches, where he plays a Dominican talk show host
+- He was known for doing a really good impression of Prince, and even had a recurring sketch called _The Prince Show_
+- Fred Armisen was also good at making impressions of political figures like Barack Obama and Mahmoud Ahmadinejad
+2. **Amy Poehler**
+![](https://images-na.ssl-images-amazon.com/images/M/MV5BNDZlNmRhNjQtOTZjZC00YzkwLWFlMDMtNTNiMmVhN2UxMzliXkEyXkFqcGdeQXVyNzcwODE0OTk@._V1_UX214_CR0,0,214,317_AL_.jpg)
+- She is known for being an anchor on Weekend Update with Tina Fey and Seth Meyers.
+- Her impression of Hillary Clinton became famous during the 2008 presidential election.
+- Amy Poehler was a cast member from 2001 to 2009
+3. **Andy Samberg**
+![](http://static.tvtropes.org/pmwiki/pub/images/ansy_samberg.jpg)
+- Samberg was a cast member from 2005 to 2012.
+- He was known for creating the _SNL Digital Short_ show, which was responsible for sketches like _I'm On a Boat, Laser Cats_, and _Like a Boss_
+- His Digital Short fame led him to create an album with his rap group called _The Lonely Island_
+4. **Kristen Wiig**
+![](https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MTA0MDA5NF5BMl5BanBnXkFtZTgwODMyMjA1NzE@._V1_UY317_CR1,0,214,317_AL_.jpg)
+- Wiig was a member from 2005 to 2012
+- Her most famous recurring characters were Penelope, a nervous woman who compulsively one-ups everyone, and Gilly, an elementary school student who is constantly disobedient.
+- Wiig returned after she left as a cast member to guest host in 2013
+5. **Kenan Thompson**
+![](https://pmcdeadline2.files.wordpress.com/2017/07/kenan-thompson.jpg?w=446&h=299&crop=1)
+- Thompson started SNL in 2003 and is still a cast member to this day
+- He is the longest serving cast member
+- One of his most famous sketches was titled _What's Up With That?_, where he plays an interrupting talk show host who loves to sing his theme song at every chance he gets. 
+
 #### Music Choice
 1. [Migos](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg/220px-Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg)
 - My favorite song from Migos is **Bad and Boujee** because it's the most lit. 
@@ -67,6 +95,7 @@ Patrick's Cats:
 ![Image of Kitkat](https://i.imgur.com/kdTDqpG.jpg)
 #### Sam (and Kitkat)
 ![Image of Sam/Kitkat](https://i.imgur.com/ogKQagY.jpg)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snavetrain/Group-Project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
