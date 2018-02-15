@@ -34,13 +34,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - The Canyon Lake Dam is so high that the water coming from the bottom is cold enough to provide the trout with oxygen. 
 - Rainbow trout are easily scared, so they are challenging to catch
 - Wading up and down the river is peaceful and I want my ashes scattered in the Guadalupe River when I die
-2. [Spurs Basketball](https://basketballhq.com/wp-content/uploads/2015/10/hi-res-159737409_crop_650x440.jpg)
+2. [Spurs Basketball](https://i.ytimg.com/vi/RA80Un7SGlA/maxresdefault.jpg)
 - The Spurs have been deemed "offensively challenged" by most sports commentators, but let me **LEARN** you something here.  Our MVP, Kawhi Leonard, has missed like 30 games this season with a quad injury.  
 - Rudy Gay, who we recruited solely for his offensive presence, has missed the past like 15 games. 
 - We have had to rotate our bench players in constantly
 - Pop may or may not be obsessed with defense. 
 3. [Overwatch](https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/widowmaker-screenshot-004.jpg)
 - This [Article](http://knowyourmeme.com/photos/1325069-overwatch) poses extreme controversy in the Overwatch Community
+- If you're feeling generous, you may buy George a [copy](https://www.walmart.com/ip/Overwatch-GOTY-Edition-Activision-PlayStation-4-047875881273/472837985?wmlspartner=wlpa&selectedSellerId=12697&adid=22222222227095214719&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=212745973635&wl4=pla-344488276201&wl5=9060009&wl6=&wl7=&wl8=&wl9=pla&wl10=117436918&wl11=online&wl12=472837985&wl13=&veh=sem) so he can be happy. 
 4. Going to Northgate
 - My friends and I like to play games at The Backyard
 - The Dry Bean Saloon is a cool shot bar
