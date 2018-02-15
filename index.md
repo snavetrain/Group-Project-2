@@ -1,11 +1,10 @@
-## Group Project 2
-
+# Group Project 2
+## Created by: Belair Albahagwi, George Coronado, Jose Nerio, Luke Snavely, & Patrick Tam 
 You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 
 ### 
-[This is a link to A&M's Website:](http://www.tamu.edu/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -47,6 +46,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - The Dry Bean Saloon is a cool shot bar
 - You will find me singing karoake occasionally
 
+
 ### Top 5 Saturday Night Live Cast Members (in no particular order)
 1. **Fred Armisen**
 ![](http://www.christies.com/sales/90s-to-now-online-only-february-2014/images/features-index/armisen-index.jpg)
@@ -73,6 +73,28 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Thompson started SNL in 2003 and is still a cast member to this day
 - He is the longest serving cast member
 - One of his most famous sketches was titled _What's Up With That?_, where he plays an interrupting talk show host who loves to sing his theme song at every chance he gets. 
+
+#### Music Choice
+1. [Migos](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg/220px-Y.R.N_%28Young_Rich_Niggas%29_Cover.jpg)
+- My favorite song from Migos is **Bad and Boujee** because it's the most lit. 
+- The first mixtape they released is called Juug Season on August 25, 2011.
+- Now, they are one of Hip Hop's Hardest Rappers. 
+2. [Tekashi69](http://thenewmvmt.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-29-at-3.25.28-AM.png)
+- Although officially known as 6ix9ine, he is recognized in the rap game as Tekashi69. 
+- New upcoming rapper making serious waves. 
+- Different type of flow and energy makes his music so recognizable. 
+3. [Hip-Hop>Everything](http://www.businessinsider.com/hip-hop-passes-rock-most-popular-music-genre-nielsen-2018-1)
+- According to an article by Business Insider, for the first time in history, hip-hop has surpassed rock to become the most popular music genre. 
+- [Nielson's Music Report](http://www.nielsen.com/us/en/insights/reports/2018/2017-music-us-year-end-report.html?afflt=ntrt15340001&afflt_uid=6K_vzbtMnOI.un2J6yikqTDqdJaCVNqcABj4sLaluH_j&afflt_uid_2=AFFLT_ID_2)
+  reported that seven out of ten most consumed albums came from the genre. 
+- The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
+
+### Pet Pics
+Patrick's Cats:
+#### KitKat
+![Image of Kitkat](https://i.imgur.com/kdTDqpG.jpg)
+#### Sam (and Kitkat)
+![Image of Sam/Kitkat](https://i.imgur.com/ogKQagY.jpg)
 
 ### Jekyll Themes
 
