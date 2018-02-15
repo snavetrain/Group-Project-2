@@ -5,7 +5,6 @@ You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2
 
 
 ### 
-[This is a link to A&M's Website:](http://www.tamu.edu/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -61,6 +60,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - [Nielson's Music Report](http://www.nielsen.com/us/en/insights/reports/2018/2017-music-us-year-end-report.html?afflt=ntrt15340001&afflt_uid=6K_vzbtMnOI.un2J6yikqTDqdJaCVNqcABj4sLaluH_j&afflt_uid_2=AFFLT_ID_2)
   reported that seven out of ten most consumed albums came from the genre. 
 - The popularity of Hip-Hop was powered by a 72% increase in on-demand audio streaming.
+
+### Favorite Websites
+[This is a link to A&M's Website:](http://www.tamu.edu/)
 
 ### Jekyll Themes
 
