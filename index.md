@@ -1,32 +1,5 @@
 # Group Project 2
 ## Created by: Belair Albahagwi, George Coronado, Jose Nerio, Luke Snavely, & Patrick Tam 
-You can use the [editor on GitHub](https://github.com/snavetrain/Group-Project-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
-### 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Hobbies
 1. [Fishing](https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,q_65,w_768/v1/clients/norway/Fishing_2152634f-ba23-4044-8145-6ec3bab642bf.png)
@@ -43,9 +16,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - This [Article](http://knowyourmeme.com/photos/1325069-overwatch) poses extreme controversy in the Overwatch Community
 - If you're feeling generous, you may buy George a [copy](https://www.walmart.com/ip/Overwatch-GOTY-Edition-Activision-PlayStation-4-047875881273/472837985?wmlspartner=wlpa&selectedSellerId=12697&adid=22222222227095214719&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=212745973635&wl4=pla-344488276201&wl5=9060009&wl6=&wl7=&wl8=&wl9=pla&wl10=117436918&wl11=online&wl12=472837985&wl13=&veh=sem) so he can be happy. 
 4. Going to Northgate
-- My friends and I like to play games at The Backyard
-- The Dry Bean Saloon is a cool shot bar
-- You will find me singing karoake occasionally
+- My friends and I like to play games at The Backyard [](http://www.driftingcreatives.com/wp-content/uploads/2014/10/backyard.jpg)
+- The Dry Bean Saloon is a cool shot bar [](https://s3-media3.fl.yelpcdn.com/bphoto/F_Qd9s5Bzx1tmn7umlquvw/ls.jpg)
+- You will find me singing karoake occasionally [](http://surfairbeachhotel.com.au/wp-content/uploads/2017/10/karaoke1.jpg)
 
 
 ### Top 5 Saturday Night Live Cast Members (in no particular order)
@@ -97,10 +70,4 @@ Patrick's Cats:
 #### Sam (and Kitkat)
 ![Image of Sam/Kitkat](https://i.imgur.com/ogKQagY.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snavetrain/Group-Project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
